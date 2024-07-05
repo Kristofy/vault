@@ -1,2 +1,2 @@
-[[CPP-Quirks]]
+[[CPP Quirks]]
 [[Notes]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/CPP/CPP Quirks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "projects/CPP/CPP Quirks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "projects/CPP/CPP Quirks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "projects/CPP/CPP Quirks.md"
               }
             }
           },
@@ -163,8 +163,12 @@
   },
   "active": "a25bdaa845745672",
   "lastOpenFiles": [
-    "index.md.md",
+    "test/templates",
+    "test/test.md",
+    "test",
     "index.md",
+    "Excalidraw/Drawing 2024-07-05 02.45.11.excalidraw.md",
+    "index.md.md",
     "test.md",
     "Untitled 1.md",
     "1. Projects/AI/AI Business Assessment/Notes.md",
@@ -182,11 +186,9 @@
     "Templates/base.md~",
     "1. Projects/AI/LLM Application Performance",
     "Untitled",
-    "Excalidraw/Drawing 2024-07-05 02.45.11.excalidraw.md",
     "Excalidraw",
     "Create ToC.md",
     "Untitled.canvas",
-    "Assets",
     "Testing.md"
   ]
 }
