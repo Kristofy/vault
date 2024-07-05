@@ -1,2 +1,7 @@
-[[CPP Quirks]]
-[[Notes]]
+---
+title: "Home"
+publish: true
+---
+
+[[quirks]]
+

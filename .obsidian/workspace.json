@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74751a6579472708",
+        "id": "9cdc1bc8071b6615",
         "type": "tabs",
         "children": [
           {
-            "id": "a25bdaa845745672",
+            "id": "307b0680f4c28fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/CPP/CPP Quirks.md",
+                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/CPP/CPP Quirks.md",
+                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/CPP/CPP Quirks.md",
+                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/CPP/CPP Quirks.md"
+                "file": "projects/ai/ai-buisness-assesment/ai-systems.md"
               }
             }
           },
@@ -161,13 +161,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a25bdaa845745672",
+  "active": "307b0680f4c28fd3",
   "lastOpenFiles": [
+    "projects/ai/ai-buisness-assesment/notes.md",
+    "projects/ai/ai-buisness-assesment/ai-systems.md",
+    "Untitled.md",
+    "templates/base.md",
+    "templates/base.md~",
+    "index.md",
+    "projects/cpp/quirks.md",
+    "Excalidraw/Drawing 2024-07-05 02.45.11.excalidraw.md",
+    "projects/cpp/quirks.md~",
+    "index.md~",
+    "templates",
+    "projects/ai/llm-application-performace/toolbox.md",
+    "public/secret.txt",
+    "test/secret.txt",
+    "projects/CPP/CPP Quirks.md",
     "test/templates",
     "test/test.md",
     "test",
-    "index.md",
-    "Excalidraw/Drawing 2024-07-05 02.45.11.excalidraw.md",
     "index.md.md",
     "test.md",
     "Untitled 1.md",
@@ -175,18 +188,11 @@
     "1. Projects/AI/LLM Application Performance/Toolbox.md",
     "1. Projects/AI/AI Business Assessment",
     "Untitled 2",
-    "Untitled 1",
-    "1. Projects/CPP",
-    "1. Projects/AI",
     "1. Projects/CPP/CPP-Quirks.md",
     "Templates/base.md",
     "Templates/toc-update.md",
     "Templates/toc-create.md",
     "Templates/callout.md",
-    "Templates/base.md~",
-    "1. Projects/AI/LLM Application Performance",
-    "Untitled",
-    "Excalidraw",
     "Create ToC.md",
     "Untitled.canvas",
     "Testing.md"
