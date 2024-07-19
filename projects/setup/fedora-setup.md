@@ -8,6 +8,8 @@ tags:
 ---
 # Fedora Setup
 
+This is a guide to set up my fedora system for day to day use.
+
 Updated system with
 ```bash
 $ dnf update
