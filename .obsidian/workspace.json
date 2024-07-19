@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
+                "file": "projects/pcg/pcg-techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
+                "file": "projects/pcg/pcg-techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ai/ai-buisness-assesment/ai-systems.md",
+                "file": "projects/pcg/pcg-techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ai/ai-buisness-assesment/ai-systems.md"
+                "file": "projects/pcg/pcg-techniques.md"
               }
             }
           },
@@ -140,13 +140,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "9060a80688b25ac8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,38 +171,52 @@
   },
   "active": "307b0680f4c28fd3",
   "lastOpenFiles": [
-    "projects/ai/ai-buisness-assesment/notes.md",
-    "projects/ai/ai-buisness-assesment/ai-systems.md",
+    "projects/algorithms/plans.md",
+    "projects/pcg/pcg-techniques.md",
+    "projects/pcg",
+    "projects/scripts/cpu-and-memory-usage-by-program.md",
+    "projects/algorithms",
+    "projects/keyboard/setup.md",
+    "projects/setup/fedora-setup.md",
+    "projects/keyboard",
     "Untitled.md",
-    "templates/base.md",
-    "templates/base.md~",
-    "index.md",
+    "projects/scripts",
+    "Untitled",
+    "projects/setup",
+    "projects/cpp/sparse-table.md",
+    "projects/cpp/fast-search.md",
+    "projects/cpp/levels-of-hardware-concurrency/levels-of-hardware-concurrency.md",
+    "public/int_vs_long.png",
+    "public/execution_engine.png",
+    "public/enumerate_2d_small.png",
+    "public/enumerate_2d.png",
+    "public/enumerate_1d_wo_random.png",
+    "public/enumerate_1d_with_random.png",
+    "public/cache_timings.png",
+    "public/cache_hierarchy.png",
+    "projects/cpp/levels-of-hardware-concurrency/draft-levels-of-hardware-concurrency.md",
+    "projects/cpp/fast-to-upper.md",
+    "projects/cpp/makro-overload.md",
     "projects/cpp/quirks.md",
+    "projects/cpp/segment-tree.md",
+    "enumerate_2d_small.png",
+    "enumerate_2d.png",
+    "projects/cpp/levels-of-hardware-concurrency/levels-of-hardware-concurrency.md~",
+    "projects/cpp/levels-of-hardware-concurrency/Levels of hardware concurrency.md~",
+    "projects/cpp/levels-of-hardware-concurrency",
+    "projects/cpp/fast-search.md~",
+    "Excalidraw/Drawing 2024-07-05 23.06.12.excalidraw.md",
+    "projects/ai/ai-buisness-assesment/ai-systems.md",
+    "projects/ai/ai-buisness-assesment/notes.md",
+    "templates/base.md",
+    "index.md",
     "Excalidraw/Drawing 2024-07-05 02.45.11.excalidraw.md",
-    "projects/cpp/quirks.md~",
-    "index.md~",
-    "templates",
     "projects/ai/llm-application-performace/toolbox.md",
-    "public/secret.txt",
-    "test/secret.txt",
     "projects/CPP/CPP Quirks.md",
-    "test/templates",
     "test/test.md",
-    "test",
     "index.md.md",
     "test.md",
     "Untitled 1.md",
-    "1. Projects/AI/AI Business Assessment/Notes.md",
-    "1. Projects/AI/LLM Application Performance/Toolbox.md",
-    "1. Projects/AI/AI Business Assessment",
-    "Untitled 2",
-    "1. Projects/CPP/CPP-Quirks.md",
-    "Templates/base.md",
-    "Templates/toc-update.md",
-    "Templates/toc-create.md",
-    "Templates/callout.md",
-    "Create ToC.md",
-    "Untitled.canvas",
-    "Testing.md"
+    "Untitled.canvas"
   ]
 }

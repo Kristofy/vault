@@ -7,7 +7,7 @@ tags:
 publish: true
 title: Cpp Quirks
 ---
-
+# Quirks
 
 >[!SUMMARY]+ Table of Contents
 >- [CPP Quirks](CPP%20Quirks.md#CPP-Quirks)
